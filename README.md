@@ -26,5 +26,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syk25&show_icons=true&theme=radical)
 <br><br>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/syk2245)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=syk2245)](https://solved.ac/syk2245)
 </div>
