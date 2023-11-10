@@ -1,6 +1,9 @@
 <div align="center">
   
 <h1>Hi there, I'm <a href="##">Seyoun Kim</a> 👋</h1>
+<p>I'm currently interested in backend engineering.</p>
+<p>I'm open to new experience.</p>
+
 <br>
 
 <p>⚒️ Language ⚒️</p>
