@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/seyoun-kim-60374726b" target="_blank">
   <img align="left" alt="Seyoun's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
-<a href="https://www.youtube.com/@life-attack" target="_blank">
+<a href="https://www.youtube.com/@syk25" target="_blank">
   <img align="left" alt="Seyoun's Youtube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=syk25&label=Profile%20views&color=0e75b6&style=flat" alt="syk25" /> </a>
