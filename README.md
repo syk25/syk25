@@ -1,26 +1,28 @@
+### About me
+<a href="https://instagram.com/say_yeonii" target="_blank">
+  <img align="left" alt="Seyoun's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://linkedin.com/in/seyoun-kim-60374726b" target="_blank">
+  <img align="left" alt="Seyoun's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
+</a>
+<a href="https://www.youtube.com/@life-attack" target="_blank">
+  <img align="left" alt="Seyoun's Youtube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
+</a>
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=syk25&label=Profile%20views&color=0e75b6&style=flat" alt="syk25" /> </a>
+<h1 align = "left">Hi there, I'm <a href="##">Seyoun Kim</a> 👋</h1>
+<h3>I'm currently interested in backend engineering.</h3>
+
+- 📫 How to reach me **syk2245@gmail.com**
+
+
+<br />
+
 <div align="center">
-  
-<h1>Hi there, I'm <a href="##">Seyoun Kim</a> 👋</h1>
-<p>I'm currently interested in backend engineering.</p>
-<p>I'm open to new experience.</p>
 
-<br>
+<h3>languages and tools</h3>
 
-<p>⚒️ Language ⚒️</p>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
 <br><br>
-
-<p>⚒️ FrameWork ⚒️</p>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white"/>
-<br><br>
-
-<p>⚒️ DB ⚒️</p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
-<br><br>
-
 
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syk25&layout=compact">
