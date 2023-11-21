@@ -21,8 +21,5 @@
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syk25&layout=compact">
 <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syk25&show_icons=true&theme=radical)
-<br><br>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=syk2245)](https://solved.ac/syk2245)
-</div>
+
+
