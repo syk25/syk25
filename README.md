@@ -6,6 +6,7 @@
 <h1 align = "left">Hi there, I'm <a href="##">Seyoun Kim</a> 👋</h1>
 <h3>I am a professional Backend Engineer.</h3>
 <h3>I am interested in,</h3>
+
   - Backend System Implementation
   - Data Structuring and Data Engineering
   - Building services to solve my friend's problems
