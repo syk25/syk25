@@ -4,7 +4,11 @@
 </a>
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=syk25&label=Profile%20views&color=0e75b6&style=flat" alt="syk25" /> </a>
 <h1 align = "left">Hi there, I'm <a href="##">Seyoun Kim</a> 👋</h1>
-<h3>I'm currently interested in backend engineering.</h3>
+<h3>I am a professional Backend Engineer.</h3>
+<h3>I am interested in,</h3>
+  - Backend System Implementation
+  - Data Structuring and Data Engineering
+  - Building services to solve my friend's problems
 
 - 📫 How to reach me **syk2245@gmail.com**
 
