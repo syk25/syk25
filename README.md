@@ -8,8 +8,7 @@
 <h3>I am interested in,</h3>
 
   - Backend System Implementation
-  - Data Structuring and Data Engineering
-  - Building services to solve my friend's problems
+
 
 - 📫 How to reach me **syk2245@gmail.com**
 
