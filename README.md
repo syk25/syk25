@@ -13,11 +13,3 @@
 
 <br />
 
-<div align="center">
-
-
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syk25&layout=compact">
-<br><br>
-
-
