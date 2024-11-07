@@ -20,7 +20,6 @@
     <img src="https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs" />
     <img src="https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodedotjs&logoColor=5FA04E" />
     <img src="https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb&logoColor=47A248" />
-    <img src="https://img.shields.io/badge/-mongoose-05122A?style=flat&logo=mongoose&logoColor=880000" />
   </div>
   <div>
     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" >
