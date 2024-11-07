@@ -1,3 +1,4 @@
+
 # 세연 Seyoun Kim 🚀
 <a align="left"> <img src="https://komarev.com/ghpvc/?username=syk25&label=Profile%20views&color=0e75b6&style=flat" alt="syk25" /> </a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyk25&count_bg=%238D406B&title_bg=%23083D85&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
