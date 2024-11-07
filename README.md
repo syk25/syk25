@@ -30,15 +30,7 @@
 ![cplusplus](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=fff)
 
-
-
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-
-
-<br />
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syk25&layout=compact&theme=dracula) -->
-<br />
-
-
