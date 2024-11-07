@@ -16,8 +16,9 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syk25&layout=compact)](https://github.com/syk25/github-readme-stats)<br>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syk25&layout=compact&theme=dracula)
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syk25&show_icons=true&theme=dracula)
 
 
 
