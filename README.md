@@ -16,7 +16,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osw6858&layout=compact)](https://github.com/osw6858/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syk25&layout=compact)](https://github.com/syk25/github-readme-stats)<br>
 
 
 
