@@ -10,16 +10,16 @@
 <div align="left">
   <div>
     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
-    <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" />
+<!--     <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" /> -->
     <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
     <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" />
   </div>
-  <div>
-    <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs" />
-    <img src="https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodedotjs&logoColor=5FA04E" />
-    <img src="https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb&logoColor=47A248" />
-  </div>
+<!--   <div> -->
+<!--     <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=61DAFB" /> -->
+<!--     <img src="https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs" /> -->
+<!--     <img src="https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodedotjs&logoColor=5FA04E" /> -->
+<!--     <img src="https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb&logoColor=47A248" /> -->
+<!--   </div> -->
   <div>
     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" >
     <img src="https://img.shields.io/badge/-c++-05122A?style=flat&logo=cplusplus&logoColor=00599C" />
