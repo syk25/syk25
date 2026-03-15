@@ -6,6 +6,11 @@ Hi, I'm Seyoun 👋
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
+![Typescript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 <!--
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) 
