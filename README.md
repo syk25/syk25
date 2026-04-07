@@ -1,6 +1,10 @@
 Hi, I'm Seyoun 👋
 
-🤓 An aspiring backend engineer and a travel enthusiast 🇰🇷 🇺🇸 🇰🇪 🇵🇭 🇯🇵 🇲🇾 🇹🇭 🇨🇳
+🤓 I like to build stuff 🇰🇷 🇺🇸 🇰🇪 🇵🇭 🇯🇵 🇲🇾 🇹🇭 🇨🇳
+
+Currently, I'm working on these.
+- ytdiag
+- prelab
 
 
 
