@@ -1,11 +1,6 @@
 Hi, I'm Seyoun 👋
 
-🤓 I like to build stuff 🇰🇷 🇺🇸 🇰🇪 🇵🇭 🇯🇵 🇲🇾 🇹🇭 🇨🇳
-
-Currently, I'm working on these.
-- ytdiag
-- prelab
-
+🤓 I build stuff 🇰🇷 🇺🇸 🇰🇪 🇵🇭 🇯🇵 🇲🇾 🇹🇭 🇨🇳
 
 
 # 💻 Tech Stack:
