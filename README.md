@@ -1,8 +1,6 @@
 Hi, I'm Seyoun 👋
 
-🤓 I build stuff 🇰🇷 🇺🇸 🇰🇪 🇵🇭 🇯🇵 🇲🇾 🇹🇭 🇨🇳
-
-
+<!--
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -11,7 +9,7 @@ Hi, I'm Seyoun 👋
 ![SQL](https://img.shields.io/badge/sql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Typescript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
+-->
 
 
 <!--
@@ -28,9 +26,10 @@ Hi, I'm Seyoun 👋
 
 
 
-# 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syk25&theme=github_dark)
+<!-- # 📊 GitHub Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syk25&theme=github_dark) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=syk25&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syk25&theme=github_dark&exclude=html,smarty)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=syk25&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syk25&theme=github_dark&exclude=html,smarty) -->
+
 
  
